@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/devjunhong/test-timeline/static/css/main.a1a16dff.chunk.css",
+    "main.js": "/devjunhong/test-timeline/static/js/main.d6fd05ab.chunk.js",
+    "main.js.map": "/devjunhong/test-timeline/static/js/main.d6fd05ab.chunk.js.map",
+    "runtime-main.js": "/devjunhong/test-timeline/static/js/runtime-main.be7ee83f.js",
+    "runtime-main.js.map": "/devjunhong/test-timeline/static/js/runtime-main.be7ee83f.js.map",
+    "static/css/2.2aa38b9c.chunk.css": "/devjunhong/test-timeline/static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.19932396.chunk.js": "/devjunhong/test-timeline/static/js/2.19932396.chunk.js",
+    "static/js/2.19932396.chunk.js.map": "/devjunhong/test-timeline/static/js/2.19932396.chunk.js.map",
+    "static/js/3.8e4e90de.chunk.js": "/devjunhong/test-timeline/static/js/3.8e4e90de.chunk.js",
+    "static/js/3.8e4e90de.chunk.js.map": "/devjunhong/test-timeline/static/js/3.8e4e90de.chunk.js.map",
+    "index.html": "/devjunhong/test-timeline/index.html",
+    "static/css/2.2aa38b9c.chunk.css.map": "/devjunhong/test-timeline/static/css/2.2aa38b9c.chunk.css.map",
+    "static/css/main.a1a16dff.chunk.css.map": "/devjunhong/test-timeline/static/css/main.a1a16dff.chunk.css.map",
+    "static/js/2.19932396.chunk.js.LICENSE.txt": "/devjunhong/test-timeline/static/js/2.19932396.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/devjunhong/test-timeline/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be7ee83f.js",
+    "static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.19932396.chunk.js",
+    "static/css/main.a1a16dff.chunk.css",
+    "static/js/main.d6fd05ab.chunk.js"
+  ]
+}
